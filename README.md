@@ -13,15 +13,7 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
 
 </header>
 
-<div align="center">
-    <iframe width="700" height="315" 
-            src="https://flavienjaquerod.github.io/skills-github-pages/tutorial.mp4" 
-            title="App Tutorial" 
-            frameborder="0" 
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-            allowfullscreen>
-    </iframe>
-</div>
+![tutorial](tutorial.mp4)
 
 <!--
   <<< Author notes: Finish >>>
