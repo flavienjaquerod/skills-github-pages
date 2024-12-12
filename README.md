@@ -13,6 +13,16 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
 
 </header>
 
+<div align="center">
+    <iframe width="700" height="315" 
+            src="https://flavienjaquerod.github.io/skills-github-pages/tutorial.mp4" 
+            title="App Tutorial" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen>
+    </iframe>
+</div>
+
 <!--
   <<< Author notes: Finish >>>
   Review what we learned, ask for feedback, provide next steps.
@@ -56,12 +66,4 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 
 </footer>
 
-<div align="center">
-    <iframe width="700" height="315" 
-            src="https://flavienjaquerod.github.io/skills-github-pages/tutorial.mp4" 
-            title="App Tutorial" 
-            frameborder="0" 
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-            allowfullscreen>
-    </iframe>
-</div>
+
